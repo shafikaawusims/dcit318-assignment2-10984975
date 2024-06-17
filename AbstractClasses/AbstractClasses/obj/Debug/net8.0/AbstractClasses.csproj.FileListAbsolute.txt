@@ -1,0 +1,14 @@
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.exe
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.deps.json
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.runtimeconfig.json
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.dll
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.pdb
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.dll
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\refint\AbstractClasses.dll
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.pdb
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.genruntimeconfig.cache
+C:\Users\FAKECADET\source\repos\lolaryea\dcit318-assignment2-10984944\AbstractClasses\AbstractClasses\obj\Debug\net8.0\ref\AbstractClasses.dll
